@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Alejandro Thompson</h1>
-<h3 align="center">Data Analyst and Business Strategist from Bolivia </h3>
+<h3 align="center">Data Analyst and Business Strategist</h3>
+<p align="center">
+  <img src="https://github.com/AleThompsonO/About/blob/main/250636767_6663621337045220_2468962645161987425_n%20(1).jpg" alt="My Image" width="200"/><br>
+  <sub><sup>1st place. Awarded by the President of Bolivia, 2021</sup></sub>
+</p>
 
 - 🔭 I’m currently working on **my portfolio and find my dream job**
 
-- 🌱 I’m currently learning **how to make visualizations more effective in Power BI and Tableau**
+- 🌱 I’m currently learning **how to make visualizations more effective in Power BI and Tableau and learning more about Machine Learning**
 
 - 👯 I’m looking to collaborate on **different projects related to data analysis and data science related to business.**
 
-- 🤝 I’m looking for help with **increasing my network and finding the job I am preparing for.**
+- 🤝 I am looking for help to **increase my network and find the job I have been training for for almost 2 years.**
 
 - 👨‍💻 Some of my projects are available at [https://www.novypro.com/profile_about/alejandrothompson](https://www.novypro.com/profile_about/alejandrothompson)
 
-- 📝 I regularly read articles on data science, strategy, data articles, visualization, programming.
+- 📝 I regularly read articles on data science, strategy, data articles, visualization, and programming.
 
 - 💬 Ask me about **Business, Marketing, Finance, Environment, Sales, Entrepreneurship, Strategy, All based on data analysis**
 
