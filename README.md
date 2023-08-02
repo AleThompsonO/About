@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Thompson</h1>
 <h3 align="center">Data Analyst and Business Strategist</h3>
 <p align="center">
-  <img src="https://github.com/AleThompsonO/About/blob/main/250636767_6663621337045220_2468962645161987425_n%20(1).jpg" alt="My Image" width="200"/><br>
+  <img src="https://github.com/AleThompsonO/About/blob/main/250636767_6663621337045220_2468962645161987425_n%20(1).jpg" alt="My Image" width="400"/><br>
   <sub><sup>1st place. Awarded by the President of Bolivia, 2021</sup></sub>
 </p>
 
