@@ -5,7 +5,7 @@
   <sub><sup>1st place. Awarded by the President of Bolivia, 2021</sup></sub>
 </p>
 
-- 🔭 I’m currently working on **my portfolio and find my dream job**
+- 🔭 I am currently working on **strengthening my skills to be a data scientist and looking for a job that will allow me to achieve that dream**.
 
 - 🌱 I’m currently learning **how to make visualizations more effective in Power BI and Tableau and learning more about Machine Learning**
 
@@ -47,8 +47,15 @@
 <a href="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/></a>
 <a href="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/asana/asana-ar21.svg" alt="Asana" width="40" height="40"/></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alethompsono&show_icons=true&locale=en&layout=compact" alt="alethompsono" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alethompsono&show_icons=true&locale=en&layout=compact" alt="alethompsono" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alethompsono&show_icons=true&locale=en" alt="alethompsono" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alethompsono&show_icons=true&locale=en" alt="alethompsono" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alethompsono&" alt="alethompsono" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alethompsono&" alt="alethompsono" />
+</p>
+
