@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **different projects related to data analysis and data science related to business.**
 
-- 🤝 I am looking for help to **increase my network and find the job I have been training for for almost 2 years.**
+- 🤝  I am looking for help to **increase my network and participate in different data projects**.
 
 - 👨‍💻 Some of my projects are available at [https://www.novypro.com/profile_about/alejandrothompson](https://www.novypro.com/profile_about/alejandrothompson)
 
